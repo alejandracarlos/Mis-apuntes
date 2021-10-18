@@ -1,0 +1,15 @@
+footer{
+
+    background-color: #cccccc;
+    
+    }
+    .header_logo{
+        display:table-cell;
+        text-align:center;
+        vertical-align:middle;  
+        border:red solid 1px;
+        margin:0 0 0 2px;
+    }
+    .bg-secondary {
+        background-color: white!important;
+    }
